@@ -1,0 +1,61 @@
+input {
+    background-color: aqua;
+    border-color: darkgreen;
+    color: green;
+    font-size: 30px;
+    border-radius: 20px;
+}
+Textarea {
+    background-color: aqua;
+    border-color: darkgreen;
+    color: green;
+    border-radius: 20px;    
+}
+.FForm {
+    color: green;
+    font-size: 30px;
+}
+.OnFP {
+    font-size: 40px;
+    float:center;
+    color: red;
+}
+
+.OnIn {
+    font-size: 40px;
+    text-align: center;
+    float:center;
+    color: red;
+}
+/* .OnlyBut1:hover{
+    border-color:rgb(241, 193, 108);
+    background-color: yellowgreen;
+    color: wheat; */
+/* } */
+
+.OnlyBut2 {
+    float:center;
+    color: aqua;
+    background-color:blue;
+    border-radius: 30px;
+    height: 300px;
+    width: 500px;
+    border-style: solid;
+    font-size: 3rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 200px;
+    margin-left: 600px;
+    margin-right: 600px;
+    cursor: pointer;
+    border-color: blueviolet;
+    transition: background 0.5s,
+        color 0.5s
+}
+.OnlyBut2:hover{
+    background-color: aquamarine;
+    color: azure;
+    border-color:cyan;
+}
